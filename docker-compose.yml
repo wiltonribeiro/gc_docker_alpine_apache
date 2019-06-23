@@ -1,0 +1,19 @@
+version: "2"
+
+services:
+
+  main: 
+    build:
+      context: .
+
+    volumes:
+      - ".:/products"
+      - "./html:/var/www/html"
+      - "./apache2/conf.d:/etc/apache2/conf.d"
+      - "./log:/var/log/apache2"
+
+    environment:
+      APACHE_LOG_DIR: "/var/log/apache2"
+
+    ports:
+      - "80:80"

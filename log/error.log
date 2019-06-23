@@ -1,0 +1,30 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 23 03:06:51.571467 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Sun Jun 23 03:06:51.572973 2019] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 23 18:14:51.963366 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Sun Jun 23 18:14:51.964497 2019] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 23 18:16:54.670092 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Sun Jun 23 18:16:54.673940 2019] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 23 18:27:21.645013 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Sun Jun 23 18:27:21.645778 2019] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 23 18:29:35.063894 2019] [core:warn] [pid 1] AH00098: pid file /run/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 23 18:29:35.068267 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Sun Jun 23 18:29:35.069951 2019] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 23 18:30:37.804182 2019] [core:warn] [pid 1] AH00098: pid file /run/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 23 18:30:37.806949 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Sun Jun 23 18:30:37.807972 2019] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 23 18:38:04.525771 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Sun Jun 23 18:38:04.528361 2019] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 23 18:39:46.704998 2019] [core:warn] [pid 1] AH00098: pid file /run/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 23 18:39:46.706829 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Sun Jun 23 18:39:46.707809 2019] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 23 18:42:32.043339 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.39 (Unix) configured -- resuming normal operations
+[Sun Jun 23 18:42:32.044264 2019] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
